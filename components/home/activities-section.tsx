@@ -63,13 +63,13 @@ export function ActivitiesSection() {
             isVisible ? "opacity-100 scale-100" : "opacity-0 scale-95"
           }`}
         >
-          <div className="relative w-full h-[400px] md:h-[500px] rounded-3xl overflow-hidden shadow-2xl bg-white">
+          {/* <div className="relative w-full h-[400px] md:h-[500px] rounded-3xl overflow-hidden shadow-2xl bg-white">
             <iframe
               src="https://my.spline.design/helloliquidtext-RWIQOObRATkk24oso9Ftk4Pz-fC2/"
               className="w-full h-full border-0"
               title="Découvrez nos activités - Animation 3D"
             />
-          </div>
+          </div> */}
         </div>
 
         <div className="max-w-3xl mx-auto text-center mb-16">

@@ -54,11 +54,11 @@ export function AboutSection() {
   return (
     <section id="a-propos" ref={sectionRef} className="relative py-24 overflow-hidden">
       <div className="absolute inset-0 z-0">
-        <iframe
+        {/* <iframe
           src="https://my.spline.design/purpleweb-gpp5Uwq9z949NKD9Zz2Tthbh/"
           className="w-full h-full border-0"
           title="Purple Web Background"
-        />
+        /> */}
         {/* Light overlay for better text readability */}
         <div className="absolute inset-0 bg-white/10" />
       </div>
